@@ -12,7 +12,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/FA9SH",
-    "repository": "https://github.com/USDDBOOT/Shadow",
+    "repository": "https://github.com/xcracker000/Shadow",
     "success_url": "https://t.me/usddshad",
     "env": {
         "API_ID": {
